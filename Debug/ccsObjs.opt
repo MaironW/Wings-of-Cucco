@@ -1,0 +1,1 @@
+"./Nokia5110.obj" "./actions.obj" "./buttons.obj" "./main.obj" "./tm4c123gh6pm_startup_ccs.obj" "/home/mairon/ti/TivaWare_C_Series/driverlib/ccs/Debug/driverlib.lib" "../tm4c123gh6pm.cmd" -llibc.a 
